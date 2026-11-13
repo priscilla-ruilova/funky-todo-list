@@ -52,4 +52,4 @@ To access the live link, [click here](https://priscilla-ruilova.github.io/funky-
 - Consider checking out the [repo I forked this project from](https://github.com/Resilient-Labs/todo-list-2019-week05) and take it in your own direction.
 - Try changing the styling in `assets/` to make it your own.
 
-
+## Happy Coding!
