@@ -44,7 +44,7 @@ To access the live link, [click here](https://priscilla-ruilova.github.io/funky-
     ```
 2. Navigate to the project:
      ```bash 
-    cd funky-todo-list-week
+    cd funky-todo-list
     ```
 3. Open `index.html` in your browser — no install step needed.
 
