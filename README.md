@@ -1,4 +1,4 @@
-# ✅ Todo List
+# ✅ Funky Todo List
 
 A simple to-do list where you can add items, check them off, delete individual items, and clear the whole list. Built with HTML, CSS, and Vanilla JavaScript.
 
